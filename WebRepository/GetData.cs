@@ -256,5 +256,10 @@ namespace RestaurantApp
             var img = new List<String>(s);
             return img;
         }
+
+        public void hello()
+        {
+
+        }
     }
 }
